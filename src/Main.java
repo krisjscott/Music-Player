@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main{
 
     public static void main(String[] args) {
-        String filename = "src/music_for_video-in-the-forest-2-21402.wav";
+        String filename = "/home/krisjscott/Documents/Program/java/Music player/Music/sonican-background-music-new-age-nature-465069.wav";
         File file = new File(filename);
 
 
